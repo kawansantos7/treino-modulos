@@ -10,7 +10,7 @@ console.log("Soma de 15 + 30:", somar(15, 30));
 
 // Exercício 4: Saudação
 console.log("\n=== SAUDAÇÃO ===");
-console.log(saudarUsuario("Gustavo"));
+console.log(saudarUsuario("Kawan"));
 
 // Exercício 5: Utilitários
 console.log("\n=== UTILITÁRIOS ===");
